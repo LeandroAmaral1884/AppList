@@ -47,7 +47,7 @@ export function Home() {
   }
   return (
     <View style={styles.container}>
-      <Text style={styles.eventName}>EVENTO TCC TI TESTE</Text>
+      <Text style={styles.eventName}>APPLIST </Text>
 
       <Text style={styles.eventDate}>Sexta, 4 Agosto 2023</Text>
 
